@@ -10,7 +10,7 @@
   "website": "https://www.dankindian.com/",
   "success_url": "https://youtu.be/n_M9P44r9ag",
   "env": {
-    "TOKEN": {
+    "BOT TOKEN": {
       "description": "Bot Token, Get It From @BotFather.",
       "value": ""
     }
